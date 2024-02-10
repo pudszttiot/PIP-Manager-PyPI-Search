@@ -1,0 +1,43 @@
+
+====================================
+     Release Notes - Wget Downloader v1.3
+
+        Version 1.3 - Released June 24, 2023
+====================================
+
+
+Key Changes:
+------------
+Version 1.3:
+
+Added support for multiple URLs to be entered simultaneously in the "Batch URL's" window.
+Improved user experience by providing a context menu (Cut, Copy, Paste) for the URLs entry field.
+Added a watermark label displaying "pudszTTIOT" at the bottom right corner of the window.
+Made minor visual improvements to the user interface.
+
+Features:
+---------
+- 
+    • 
+
+
+
+Enhancements:
+-------------
+
+
+
+Bug Fixes:
+----------
+
+
+
+Known Issues:
+-------------
+
+
+For instructions on how to use the Wget Downloader, please refer to the "How to use" section from the menu bar or for detailed instructions refer to the "Help File" section from the menu bar.
+
+
+Thank you for using Wget Downloader!
+

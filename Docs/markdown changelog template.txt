@@ -1,0 +1,14 @@
+Markdown Changelog:
+
+# Changelog
+
+## Version 1.2 to Version 1.3
+
+- Imported the "os" module for handling operating system-related tasks.
+- Updated the visual theme to "arc" for a sleeker and more modern appearance.
+- Resized the main window to dimensions of 200x300 pixels for a more compact layout.
+- Introduced a dedicated output box to display the results of commands more neatly.
+- Implemented a new window with a stylish background image to showcase command outputs.
+- Enhanced error handling and exceptions when executing commands for better reliability.
+- Slightly adjusted the position of the watermark label for improved visual alignment.
+- Incorporated a background image for the output window, enhancing its overall look.
