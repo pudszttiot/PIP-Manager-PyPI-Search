@@ -21,7 +21,8 @@ PIP Manager + PyPI Search is a Python GUI application that combines the function
 ## Installation
 
 Clone the Repository:
-Open a terminal or command prompt and navigate to the directory where you want to clone the repository. Then, run the following command:
+<br>
+Open a terminal or command prompt and navigate to the directory where you want to clone the repository. Then, run the following command...
 
 ```sh 
 # clone this repo
