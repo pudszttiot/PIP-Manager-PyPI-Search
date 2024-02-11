@@ -8,8 +8,11 @@
 PIP Manager + PyPI Search is a Python GUI application that combines the functionality of managing Python packages through PIP and searching for packages on the Python Package Index (PyPI). This user-friendly application provides convenient features for installing, uninstalling, upgrading, listing installed packages, and checking outdated packages via PIP Manager. Additionally, it offers a seamless PyPI Search functionality to explore available packages on PyPI.
 
 ## Screenshots
+<p align="center">
+<img width="500" height="500" src="https://raw.githubusercontent.com/pudszttiot/PIP-Manager-PyPI-Search/main/Images/Screenshots/SC1.png" alt="Screenshot-1" border="0"> 
+<img width="500" height="500" src="https://raw.githubusercontent.com/pudszttiot/PIP-Manager-PyPI-Search/main/Images/Screenshots/SC2.png" alt="Screenshot-2" border="0">
+</p>
 
-<img src="INSERT.SCREENSHOT.IMAGE.URL.HERE.png" alt="Screenshot-1" border="0">
 
 ## Table of Contents
 
