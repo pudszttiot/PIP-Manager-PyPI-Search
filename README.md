@@ -13,7 +13,7 @@ PIP Manager + PyPI Search is a Python GUI application that combines the function
 ## Screenshots
 
 <p align="center"> 
-<img width="400" height="380" src="https://raw.githubusercontent.com/pudszttiot/PIP-Manager-PyPI-Search/main/Images/Screenshots/SC1.png" alt="Screenshot-1" border="0">
+<img width="400" height="380" src="https://raw.githubusercontent.com/pudszttiot/PIP-Manager-PyPI-Search/main/Images/Screenshots/SC3.png" alt="Screenshot-1" border="0">
   &nbsp;
 <img width="400" height="380" src="https://raw.githubusercontent.com/pudszttiot/PIP-Manager-PyPI-Search/main/Images/Screenshots/SC2.png" alt="Screenshot-2" border="0">
   </p>
