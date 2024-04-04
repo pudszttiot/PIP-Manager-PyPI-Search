@@ -1,18 +1,22 @@
-
 <p align="center">
   <img width="660" height="500" src="https://raw.githubusercontent.com/pudszttiot/PIP-Manager-PyPI-Search/main/Images/pipmanager1.png">
 </p>
 
-# PIP Manager + PyPI Search
+# Project Title
+
+PIP Manager + PyPI Search
+
+## Description
 
 PIP Manager + PyPI Search is a Python GUI application that combines the functionality of managing Python packages through PIP and searching for packages on the Python Package Index (PyPI). This user-friendly application provides convenient features for installing, uninstalling, upgrading, listing installed packages, and checking outdated packages via PIP Manager. Additionally, it offers a seamless PyPI Search functionality to explore available packages on PyPI.
 
 ## Screenshots
-<p align="center">
-<img width="500" height="500" src="https://raw.githubusercontent.com/pudszttiot/PIP-Manager-PyPI-Search/main/Images/Screenshots/SC1.png" alt="Screenshot-1" border="0"> 
-<img width="500" height="500" src="https://raw.githubusercontent.com/pudszttiot/PIP-Manager-PyPI-Search/main/Images/Screenshots/SC2.png" alt="Screenshot-2" border="0">
-</p>
 
+<p align="center"> 
+<img width="400" height="380" src="https://raw.githubusercontent.com/pudszttiot/PIP-Manager-PyPI-Search/main/Images/Screenshots/SC1.png" alt="Screenshot-1" border="0">
+  &nbsp;
+<img width="400" height="380" src="https://raw.githubusercontent.com/pudszttiot/PIP-Manager-PyPI-Search/main/Images/Screenshots/SC2.png" alt="Screenshot-2" border="0">
+  </p>
 
 ## Table of Contents
 
@@ -20,48 +24,25 @@ PIP Manager + PyPI Search is a Python GUI application that combines the function
 - [Usage](#usage)
 - [Features](#features)
 - [Contributing](#contributing)
-- [License](#license)
+- [Contact](#contact)
 
 ## Installation
 
-• **Clone the Repository:**
-1. Open a terminal or command prompt and navigate to the directory where you want to clone the repository. Then, run the following command (This will download the project files to your local machine)...
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/pudszttiot/PIP-Manager-PyPI-Search.git
+   ```
 
-```sh 
-# clone this repo
-git clone https://github.com/pudszttiot/PIP-Manager-PyPI-Search.git
-```
-
-• **Navigate to the Project Directory:**
-  
-  2. Once the repository is cloned, navigate into the project directory...
-
-```sh 
-# navigate to installation folder
-cd PIP-Manager-PyPI-Search
-```
-
-• **Install Dependencies:**
-  
-  3. Navigate into the project directory where the `requirements.txt` file is located. Then, run the following command...
- 
-```sh
-# install requirements file
-pip install -r requirements.txt
-```
-    
-This command will read the `requirements.txt` file and install all listed dependencies automatically. Make sure you have Python and pip installed on your system. 
-(By using the `requirements.txt` file, you ensure that all dependencies required for the project are installed correctly and consistently)
-
-
+2. **Install dependencies:**
+   ```bash
+   pip install -r requirements.txt
+   ```
 
 ## Usage
-
-To use the PIP Manager + PyPI Search application, run the following command:
-
-```sh
-python main.py
-```
+- **Run the app using the below command:**
+   ```bash
+   python run.py
+   ```
 
 ## Features
 
@@ -84,12 +65,49 @@ python main.py
 
 ## Contributing
 
-Contributions to the PIP Manager + PyPI Search application are welcome. Here are some ways you can contribute:
+Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or create a pull request on [GitHub](https://github.com/pudszttiot/PIP-Manager-PyPI-Search).
 
--   Report bugs or suggest features by opening an issue.
--   Submit pull requests to fix issues or add new features.
--   Provide feedback on the existing functionality.
+## Contact
 
-## License
+For any inquiries or support, you can contact [pudszttiot9@proton.me](mailto:pudszttiot9@proton.me)
+<br>
 
-This project is licensed under the [MIT License](https://chat.openai.com/c/LICENSE).
+<span>
+        <img src="https://raw.githubusercontent.com/pudszttiot/SpotiScrape-Online/main/Images/Socials/Github.png" alt="Github.png" width="50" height="50" border="2">
+        <a href="https://github.com/pudszttiot" style="display:inline-block; text-decoration:none; color:#e8eaea;" onclick="openLink('https://github.com/pudszttiot')">Github</a>
+        </span>
+
+<span>
+        <img src="https://raw.githubusercontent.com/pudszttiot/SpotiScrape-Online/main/Images/Socials/Youtube.png" alt="Youtube.png" width="50" height="50" border="2">
+        <a href="https://youtube.com/@pudszTTIOT" style="display:inline-block; text-decoration:none; color:#ff0000;" onclick="openLink('https://youtube.com/@pudszTTIOT')">YouTube</a>
+        </span>
+
+<span>
+        <img src="https://raw.githubusercontent.com/pudszttiot/SpotiScrape-Online/main/Images/Socials/SourceForge2.png" alt="SourceForge.png" width="50" height="50" border="2">
+        <a href="https://sourceforge.net/u/pudszttiot" style="display:inline-block; text-decoration:none; color:#ee730a;" onclick="openLink('https://sourceforge.net/u/pudszttiot')">SourceForge</a>
+        </span>
+
+<span>
+        <img src="https://raw.githubusercontent.com/pudszttiot/SpotiScrape-Online/main/Images/Socials/Dailymotion.png" alt="Dailymotion.png" width="50" height="50" border="2">
+        <a href="https://dailymotion.com/pudszttiot" style="display:inline-block; text-decoration:none; color:#0062ff;" onclick="openLink('https://dailymotion.com/pudszttiot')">Dailymotion</a>
+        </span>
+
+<span>
+        <img src="https://raw.githubusercontent.com/pudszttiot/SpotiScrape-Online/main/Images/Socials/Blogger.png" alt="Blogger.png" width="50" height="50" border="2">
+        <a href="https://pudszttiot.blogspot.com" style="display:inline-block; text-decoration:none; color:#ff5722;" onclick="openLink('https://pudszttiot.blogspot.com')">Blogger</a>
+        </span>
+
+<span>
+        <img src="https://raw.githubusercontent.com/pudszttiot/SpotiScrape-Online/main/Images/Socials/BitChute_Social.png" alt="BitChute.png" width="50" height="50" border="2">
+        <a href="https://bitchute.com/channel/pudszttiot/" style="display:inline-block; text-decoration:none; color:#ff5722;" onclick="openLink('https://bitchute.com/channel/pudszttiot/')">BitChute</a>
+        </span>
+
+<span>
+        <img src="https://raw.githubusercontent.com/pudszttiot/SpotiScrape-Online/main/Images/Socials/Reddit.png" alt="Reddit.png" width="50" height="50" border="2">
+        <a href="https://reddit.com/user/puddsszz" style="display:inline-block; text-decoration:none; color:#ff5722;" onclick="openLink('https://reddit.com/user/puddsszz')">Reddit</a>
+        </span>
+
+<span>
+        <img src="https://raw.githubusercontent.com/pudszttiot/SpotiScrape-Online/main/Images/Socials/Playstation.png" alt="PlayStation.png" width="50" height="50" border="2">
+        <a href="https://psnprofiles.com/snippapudsz" style="display:inline-block; text-decoration:none; color:#ff5722;" onclick="openLink('https://psnprofiles.com/snippapudsz')">PlayStation</a>
+        </span>
