@@ -2,9 +2,13 @@
   <img width="660" height="500" src="https://raw.githubusercontent.com/pudszttiot/PIP-Manager-PyPI-Search/main/Images/pipmanager1.png">
 </p>
 
-# Project Title
+<h2 align="center">
+
+---
 
 PIP Manager + PyPI Search
+
+---
 
 ## Description
 
@@ -37,6 +41,19 @@ PIP Manager + PyPI Search is a Python GUI application that combines the function
    ```bash
    pip install -r requirements.txt
    ```
+
+---
+
+> [!TIP]
+> Save yourself valuable time by simply clicking the download button provided below.
+
+<h3 align="center">
+
+[![Download PIP-Manager-PyPI-Search](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/pip-manager-pypi-search/files/latest/download)
+
+</h3>
+
+---
 
 ## Usage
 - **Run the app using the below command:**
@@ -111,3 +128,18 @@ For any inquiries or support, you can contact [pudszttiot9@proton.me](mailto:pud
         <img src="https://raw.githubusercontent.com/pudszttiot/SpotiScrape-Online/main/Images/Socials/Playstation.png" alt="PlayStation.png" width="50" height="50" border="2">
         <a href="https://psnprofiles.com/snippapudsz" style="display:inline-block; text-decoration:none; color:#ff5722;" onclick="openLink('https://psnprofiles.com/snippapudsz')">PlayStation</a>
         </span>
+
+<br>
+<br>
+
+---
+
+<br>
+
+<h5 align="center">
+
+[<img width="100" height="100" src="https://raw.githubusercontent.com/pudszttiot/Folder-Templates/main/Images/back-to-top2.png">](#top)
+
+[Back to top](#top)
+
+<br>
